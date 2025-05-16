@@ -1,4 +1,4 @@
-# EXCODE
+# de[code]
 ## Un commun numérique pour l'intelligence réglementaire du bâtiment
 
 ---
@@ -55,7 +55,7 @@ Les méthodes traditionnelles montrent leurs limites :
 
 ### Une réponse structurelle et collective
 
-EXCODE propose une approche radicalement nouvelle :
+de[code] propose une approche radicalement nouvelle :
 
 - **Un commun numérique** : Ressource partagée, accessible à tous, enrichie collectivement
 - **Open source** : Code, données et méthodologie librement disponibles et modifiables
@@ -65,7 +65,7 @@ EXCODE propose une approche radicalement nouvelle :
 
 ### Principes fondateurs
 
-EXCODE repose sur trois principes clés :
+de[code] repose sur trois principes clés :
 
 1. **Dissociation et standardisation** : Séparation modulaire des différents niveaux d'information (exigences, capacités, impacts)
 
@@ -75,7 +75,7 @@ EXCODE repose sur trois principes clés :
 
 ### Objectifs transformateurs
 
-EXCODE vise à :
+de[code] vise à :
 
 - **Démocratiser** l'accès à l'intelligence réglementaire
 - **Accélérer** la conception de bâtiments conformes et innovants
@@ -97,7 +97,7 @@ Le projet s'inspire de trois modèles éprouvés :
 
 ### Une ontologie structurante
 
-L'ontologie EXCODE définit précisément les concepts et leurs relations :
+L'ontologie de[code] définit précisément les concepts et leurs relations :
 
 ```
                     ┌─────────────┐
@@ -188,7 +188,7 @@ Cette structuration avancée permet :
 
 ### Architecture modulaire des bases
 
-EXCODE repose sur une structure de bases de données distinctes mais interconnectées :
+de[code] repose sur une structure de bases de données distinctes mais interconnectées :
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -270,7 +270,7 @@ Exigence (R142-12) --requiert--> Capacité standardisée (C-123: "Régulation de
    - Réduction drastique de la redondance
 
 4. **Flexibilité d'utilisation**
-   - Possibilité d'utiliser EXCODE sans certains modules (ex: sans impacts)
+   - Possibilité d'utiliser de[code] sans certains modules (ex: sans impacts)
    - Adaptation géographique (ex: bases d'impacts différentes par pays)
    - Extensions spécialisées possibles
 
@@ -280,7 +280,7 @@ Exigence (R142-12) --requiert--> Capacité standardisée (C-123: "Régulation de
 
 ### Production IA + Validation humaine + Amélioration IA
 
-Le cœur d'EXCODE est un processus cyclique où l'IA et l'humain collaborent en continu :
+Le cœur d'de[code] est un processus cyclique où l'IA et l'humain collaborent en continu :
 
 ```
 ┌─────────────┐     ┌───────────────┐     ┌────────────────┐
@@ -390,7 +390,7 @@ Les déclencheurs sont des conditions contextuelles qui déterminent l'applicabi
 
 **Définition** : Conditions qui activent ou désactivent l'applicabilité d'une exigence dans un contexte spécifique
 
-**Fonction** : Permettent aux plateformes externes d'interroger EXCODE pour obtenir uniquement les exigences pertinentes pour un projet donné
+**Fonction** : Permettent aux plateformes externes d'interroger de[code] pour obtenir uniquement les exigences pertinentes pour un projet donné
 
 **Structure** : Combinaisons logiques (ET, OU, NON) de conditions élémentaires standardisées
 
@@ -588,7 +588,7 @@ Cette structuration permet des analyses avancées :
 
 ### Mécanismes de consensus pondéré
 
-EXCODE utilise un système sophistiqué pour valider collectivement les contributions :
+de[code] utilise un système sophistiqué pour valider collectivement les contributions :
 
 1. **Profilage de confiance**
    - Score de fiabilité basé sur l'historique de contributions
@@ -626,7 +626,7 @@ Des mécanismes inspirés de la blockchain protègent l'intégrité du commun :
 
 ### Structure de gouvernance
 
-EXCODE est gouverné selon des principes démocratiques et transparents :
+de[code] est gouverné selon des principes démocratiques et transparents :
 
 - **Conseil d'orientation** : Représentants élus des différentes parties prenantes
 - **Comités thématiques** : Groupes d'experts par domaine réglementaire
@@ -649,7 +649,7 @@ La gouvernance respecte les valeurs des communs numériques :
 
 ### Vision à long terme
 
-EXCODE aspire à devenir :
+de[code] aspire à devenir :
 
 - **Un standard ouvert** pour l'intelligence réglementaire du bâtiment
 - **Une infrastructure commune** utilisable par tous les acteurs du secteur
@@ -657,17 +657,17 @@ EXCODE aspire à devenir :
 - **Un vecteur de démocratisation** du savoir réglementaire
 - **Un accélérateur de transition** vers des bâtiments plus durables
 
-### Écosystème EXCODE
+### Écosystème de[code]
 
 Le projet s'inscrit dans un écosystème complet :
 
-1. **Base de connaissances EXCODE**
+1. **Base de connaissances de[code]**
    - Cœur du système : bases de données structurées et API
    - Infrastructure communautaire de contribution et validation
    - Mise à jour continue par la communauté
 
 2. **Interfaces utilisateurs**
-   - Applications web et mobiles exploitant les données EXCODE
+   - Applications web et mobiles exploitant les données de[code]
    - Visualisations et tableaux de bord personnalisables
    - Interfaces de requête pour non-spécialistes
 
@@ -683,7 +683,7 @@ Le projet s'inscrit dans un écosystème complet :
 
 ### Bénéfices pour l'écosystème
 
-EXCODE génère des externalités positives pour tout le secteur :
+de[code] génère des externalités positives pour tout le secteur :
 
 - **Pour les concepteurs** : Clarification des exigences, aide à la décision
 - **Pour les maîtres d'ouvrage** : Optimisation des investissements réglementaires
@@ -694,7 +694,7 @@ EXCODE génère des externalités positives pour tout le secteur :
 
 ### Prochaines étapes
 
-L'avenir d'EXCODE se dessine autour de :
+L'avenir d'de[code] se dessine autour de :
 
 1. **Standardisation et normalisation**
    - Reconnaissance par les instances de normalisation
@@ -720,7 +720,7 @@ L'avenir d'EXCODE se dessine autour de :
 
 ## 10. POINTS À SURVEILLER OU CREUSER
 
-Malgré son ambition et sa structuration avancée, le projet EXCODE comporte plusieurs aspects qui nécessitent une attention particulière ou un développement plus approfondi:
+Malgré son ambition et sa structuration avancée, le projet de[code] comporte plusieurs aspects qui nécessitent une attention particulière ou un développement plus approfondi:
 
 ### Formalisation des impacts
 
@@ -807,7 +807,7 @@ Le succès dépendra largement de la dynamique communautaire:
   - Gamification des contributions (défis, compétitions amicales)
   - Valorisation académique et professionnelle des apports
 
-- **Partenariats académiques**: Comment intégrer EXCODE dans l'enseignement?
+- **Partenariats académiques**: Comment intégrer de[code] dans l'enseignement?
   - Modules pédagogiques clés en main
   - Projets étudiants tutorés
   - Programmes de recherche associés
@@ -826,7 +826,7 @@ Le succès dépendra largement de la dynamique communautaire:
 
 ## CONCLUSION : UN PROJET TRANSFORMATEUR
 
-EXCODE représente une approche radicalement nouvelle de la connaissance réglementaire :
+de[code] représente une approche radicalement nouvelle de la connaissance réglementaire :
 
 - **Un commun numérique** constamment enrichi par l'interaction entre IA et expertise humaine
 
@@ -840,7 +840,7 @@ EXCODE représente une approche radicalement nouvelle de la connaissance réglem
 
 Les défis identifiés, loin d'être des obstacles, représentent des opportunités d'innovation et d'amélioration continue. Leur résolution progressive, par la communauté elle-même, renforcera la robustesse et la pertinence du projet.
 
-En transformant la complexité réglementaire en ressource partagée de haute qualité, EXCODE ouvre la voie à une approche plus intégrée, transparente et stratégique de la conformité dans le secteur du bâtiment et de l'urbanisme.
+En transformant la complexité réglementaire en ressource partagée de haute qualité, de[code] ouvre la voie à une approche plus intégrée, transparente et stratégique de la conformité dans le secteur du bâtiment et de l'urbanisme.
 
 ---
 
