@@ -1,4 +1,4 @@
-# EXCODE
+# de[code]
 ## A Digital Commons for Building Regulatory Intelligence
 
 ---
@@ -55,7 +55,7 @@ Traditional methods show their limits:
 
 ### A structural and collective response
 
-EXCODE proposes a radically new approach:
+de[code] proposes a radically new approach:
 
 - **A digital commons**: Shared resource, accessible to all, collectively enriched
 - **Open source**: Code, data, and methodology freely available and modifiable
@@ -65,7 +65,7 @@ EXCODE proposes a radically new approach:
 
 ### Founding principles
 
-EXCODE is based on three key principles:
+de[code] is based on three key principles:
 
 1. **Dissociation and standardization**: Modular separation of different levels of information (requirements, capabilities, impacts)
 
@@ -75,7 +75,7 @@ EXCODE is based on three key principles:
 
 ### Transformative objectives
 
-EXCODE aims to:
+de[code] aims to:
 
 - **Democratize** access to regulatory intelligence
 - **Accelerate** the design of compliant and innovative buildings
@@ -97,7 +97,7 @@ The project is inspired by three proven models:
 
 ### A structuring ontology
 
-The EXCODE ontology precisely defines concepts and their relationships:
+The de[code] ontology precisely defines concepts and their relationships:
 
 ```
                     ┌─────────────┐
@@ -188,7 +188,7 @@ This advanced structuring allows:
 
 ### Modular database architecture
 
-EXCODE is based on a structure of distinct but interconnected databases:
+de[code] is based on a structure of distinct but interconnected databases:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -270,7 +270,7 @@ Requirement (R142-12) --requires--> Standardized capability (C-123: "Temperature
    - Drastic reduction in redundancy
 
 4. **Usage flexibility**
-   - Possibility to use EXCODE without certain modules (e.g., without impacts)
+   - Possibility to use de[code] without certain modules (e.g., without impacts)
    - Geographic adaptation (e.g., different impact databases by country)
    - Possible specialized extensions
 
@@ -280,7 +280,7 @@ Requirement (R142-12) --requires--> Standardized capability (C-123: "Temperature
 
 ### AI Production + Human Validation + AI Improvement
 
-The core of EXCODE is a cyclical process where AI and humans continuously collaborate:
+The core of de[code] is a cyclical process where AI and humans continuously collaborate:
 
 ```
 ┌─────────────┐     ┌───────────────┐     ┌────────────────┐
@@ -390,7 +390,7 @@ Triggers are contextual conditions that determine the applicability of a require
 
 **Definition**: Conditions that activate or deactivate the applicability of a requirement in a specific context
 
-**Function**: Allow external platforms to query EXCODE to obtain only relevant requirements for a given project
+**Function**: Allow external platforms to query de[code] to obtain only relevant requirements for a given project
 
 **Structure**: Logical combinations (AND, OR, NOT) of standardized elementary conditions
 
@@ -588,7 +588,7 @@ This structuring allows advanced analyses:
 
 ### Weighted consensus mechanisms
 
-EXCODE uses a sophisticated system to collectively validate contributions:
+de[code] uses a sophisticated system to collectively validate contributions:
 
 1. **Trust profiling**
    - Reliability score based on contribution history
@@ -626,7 +626,7 @@ Blockchain-inspired mechanisms protect the integrity of the commons:
 
 ### Governance structure
 
-EXCODE is governed according to democratic and transparent principles:
+de[code] is governed according to democratic and transparent principles:
 
 - **Steering Council**: Elected representatives of different stakeholders
 - **Thematic Committees**: Expert groups by regulatory domain
@@ -649,7 +649,7 @@ Governance respects the values of digital commons:
 
 ### Long-term vision
 
-EXCODE aspires to become:
+de[code] aspires to become:
 
 - **An open standard** for building regulatory intelligence
 - **A common infrastructure** usable by all sector actors
@@ -657,17 +657,17 @@ EXCODE aspires to become:
 - **A vector for democratization** of regulatory knowledge
 - **An accelerator of transition** toward more sustainable buildings
 
-### EXCODE ecosystem
+### de[code] ecosystem
 
 The project is part of a complete ecosystem:
 
-1. **EXCODE knowledge base**
+1. **de[code] knowledge base**
    - Core of the system: structured databases and API
    - Community infrastructure for contribution and validation
    - Continuous updating by the community
 
 2. **User interfaces**
-   - Web and mobile applications exploiting EXCODE data
+   - Web and mobile applications exploiting de[code] data
    - Customizable visualizations and dashboards
    - Query interfaces for non-specialists
 
@@ -683,7 +683,7 @@ The project is part of a complete ecosystem:
 
 ### Benefits for the ecosystem
 
-EXCODE generates positive externalities for the entire sector:
+de[code] generates positive externalities for the entire sector:
 
 - **For designers**: Clarification of requirements, decision support
 - **For building owners**: Optimization of regulatory investments
@@ -694,7 +694,7 @@ EXCODE generates positive externalities for the entire sector:
 
 ### Next steps
 
-The future of EXCODE includes:
+The future of de[code] includes:
 
 1. **Standardization and normalization**
    - Recognition by standardization bodies
@@ -720,7 +720,7 @@ The future of EXCODE includes:
 
 ## 10. POINTS TO MONITOR OR EXPLORE FURTHER
 
-Despite its ambition and advanced structuring, the EXCODE project has several aspects that require special attention or further development:
+Despite its ambition and advanced structuring, the de[code] project has several aspects that require special attention or further development:
 
 ### Impact formalization
 
@@ -807,7 +807,7 @@ Success will largely depend on community dynamics:
   - Gamification of contributions (challenges, friendly competitions)
   - Academic and professional valorization of contributions
 
-- **Academic partnerships**: How to integrate EXCODE into education?
+- **Academic partnerships**: How to integrate de[code] into education?
   - Ready-to-use pedagogical modules
   - Tutored student projects
   - Associated research programs
@@ -826,7 +826,7 @@ Success will largely depend on community dynamics:
 
 ## CONCLUSION: A TRANSFORMATIVE PROJECT
 
-EXCODE represents a radically new approach to regulatory knowledge:
+de[code] represents a radically new approach to regulatory knowledge:
 
 - **A digital commons** constantly enriched by the interaction between AI and human expertise
 
@@ -840,7 +840,7 @@ EXCODE represents a radically new approach to regulatory knowledge:
 
 The identified challenges, far from being obstacles, represent opportunities for innovation and continuous improvement. Their progressive resolution, by the community itself, will strengthen the robustness and relevance of the project.
 
-By transforming regulatory complexity into a shared high-quality resource, EXCODE paves the way for a more integrated, transparent, and strategic approach to compliance in the building and urban planning sector.
+By transforming regulatory complexity into a shared high-quality resource, de[code] paves the way for a more integrated, transparent, and strategic approach to compliance in the building and urban planning sector.
 
 ---
 
